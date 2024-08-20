@@ -206,6 +206,7 @@
 * [Sieve](https://www.sievedata.com/explore) or [ArtificialStudio](https://www.artificialstudio.ai/tools) - Multi-Tool Browser AIs
 * [Google Labs](https://labs.google/) or [AI Test Kitchen](https://aitestkitchen.withgoogle.com/) - Google AI Experiments
 * [DokeyAI](https://dokeyai.com/) - AI Directory and More
+* [Tool List Ai](https://toollist.ai/) - AI Directory
 
 ***
 ***
